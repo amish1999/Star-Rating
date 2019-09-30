@@ -11,7 +11,12 @@
 }
 
 // update here
-
+.rating > span {
+  display: inline-block;
+  position: relative;
+  width: 1.1em;
+  font-size: 3em;
+}
 
 
 //
