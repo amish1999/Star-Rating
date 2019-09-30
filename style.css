@@ -10,14 +10,11 @@
   border-color: #432185;
 }
 
+// update here
 
-.rating > span {
-  display: inline-block;
-  position: relative;
-  width: 1.1em;
-  font-size: 3em;
-}
 
+
+//
 .rating > h1 {
   font-size: 3em;
   color: #ccffff;
